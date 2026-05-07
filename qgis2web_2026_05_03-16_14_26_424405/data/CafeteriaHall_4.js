@@ -1,0 +1,1 @@
+var json_CafeteriaHall_4 = {"type":"FeatureCollection","name":"CafeteriaHall_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Name":null},"geometry":{"type":"MultiPolygon","coordinates":[[[[35.17836,-15.8261],[35.17888,-15.82574],[35.17899,-15.82588],[35.17848,-15.82625],[35.17836,-15.8261]]]]}}]}

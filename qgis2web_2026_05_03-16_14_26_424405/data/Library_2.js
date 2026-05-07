@@ -1,0 +1,1 @@
+var json_Library_2 = {"type":"FeatureCollection","name":"Library_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Name":null},"geometry":{"type":"MultiPolygon","coordinates":[[[[35.17793,-15.82653],[35.17817,-15.82683],[35.17841,-15.82669],[35.17816,-15.82639],[35.17793,-15.82653]]]]}}]}
